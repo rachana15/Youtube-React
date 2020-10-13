@@ -1,0 +1,20 @@
+.recomended {
+  flex: 0.82;
+  background-color: #191919;
+  border-top: 1px solid #323232;
+  padding-bottom: 0;
+  padding: 20px 20px;
+  color: white;
+}
+
+.recomended > h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.recomended__videos {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  /* margin-left: 25px; */
+}
